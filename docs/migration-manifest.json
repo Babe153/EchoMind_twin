@@ -1,0 +1,272 @@
+{
+  "plan": "EchoMind 30 个学习日逐步搬运",
+  "source_root": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历",
+  "repo_root": "C:\\Users\\Babe\\Desktop\\EchoMind_twin",
+  "file_count": 33,
+  "files": [
+    {
+      "day": 1,
+      "area": "backend",
+      "file": ".gitignore",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\.gitignore",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\.gitignore",
+      "action": "planned_copy"
+    },
+    {
+      "day": 1,
+      "area": "backend",
+      "file": "requirements.txt",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\requirements.txt",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\requirements.txt",
+      "action": "planned_copy"
+    },
+    {
+      "day": 2,
+      "area": "backend",
+      "file": "core/llm_utils.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\core\\llm_utils.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\core\\llm_utils.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 4,
+      "area": "backend",
+      "file": "core/skill_loader.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\core\\skill_loader.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\core\\skill_loader.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 4,
+      "area": "backend",
+      "file": "skills/general_customer_service/SKILL.md",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\skills\\general_customer_service\\SKILL.md",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\skills\\general_customer_service\\SKILL.md",
+      "action": "planned_copy"
+    },
+    {
+      "day": 5,
+      "area": "backend",
+      "file": "skills/technical_support/SKILL.md",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\skills\\technical_support\\SKILL.md",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\skills\\technical_support\\SKILL.md",
+      "action": "planned_copy"
+    },
+    {
+      "day": 5,
+      "area": "backend",
+      "file": "skills/billing_support/SKILL.md",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\skills\\billing_support\\SKILL.md",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\skills\\billing_support\\SKILL.md",
+      "action": "planned_copy"
+    },
+    {
+      "day": 5,
+      "area": "backend",
+      "file": "skills/README.md",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\skills\\README.md",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\skills\\README.md",
+      "action": "planned_copy"
+    },
+    {
+      "day": 6,
+      "area": "backend",
+      "file": "core/intent_recognizer.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\core\\intent_recognizer.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\core\\intent_recognizer.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 8,
+      "area": "backend",
+      "file": "agents/tools.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\agents\\tools.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\agents\\tools.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 9,
+      "area": "backend",
+      "file": "agents/agent_orchestrator.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\agents\\agent_orchestrator.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\agents\\agent_orchestrator.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 10,
+      "area": "backend",
+      "file": "tests/test_agent_orchestrator.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\tests\\test_agent_orchestrator.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\tests\\test_agent_orchestrator.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 15,
+      "area": "backend",
+      "file": "mcp/tool_manager.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\mcp\\tool_manager.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\mcp\\tool_manager.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 17,
+      "area": "backend",
+      "file": "mcp/knowledge_base.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\mcp\\knowledge_base.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\mcp\\knowledge_base.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 19,
+      "area": "backend",
+      "file": "memory/conversation_memory.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\memory\\conversation_memory.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\memory\\conversation_memory.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 21,
+      "area": "backend",
+      "file": "monitor/performance_monitor.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\monitor\\performance_monitor.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\monitor\\performance_monitor.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 22,
+      "area": "backend",
+      "file": "evaluation/evaluator.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\evaluation\\evaluator.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\evaluation\\evaluator.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 23,
+      "area": "backend",
+      "file": "api/main.py",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\api\\main.py",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\api\\main.py",
+      "action": "planned_copy"
+    },
+    {
+      "day": 25,
+      "area": "backend",
+      "file": "Dockerfile",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\Dockerfile",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\Dockerfile",
+      "action": "planned_copy"
+    },
+    {
+      "day": 25,
+      "area": "backend",
+      "file": ".dockerignore",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\.dockerignore",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\.dockerignore",
+      "action": "planned_copy"
+    },
+    {
+      "day": 25,
+      "area": "backend",
+      "file": "docker-compose.yml",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\docker-compose.yml",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\docker-compose.yml",
+      "action": "planned_copy"
+    },
+    {
+      "day": 25,
+      "area": "backend",
+      "file": "config/prometheus.yml",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\config\\prometheus.yml",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\config\\prometheus.yml",
+      "action": "planned_copy"
+    },
+    {
+      "day": 25,
+      "area": "backend",
+      "file": "config/nginx/nginx.conf",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMind\\config\\nginx\\nginx.conf",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\config\\nginx\\nginx.conf",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "package.json",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\package.json",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\package.json",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "package-lock.json",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\package-lock.json",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\package-lock.json",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "vite.config.js",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\vite.config.js",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\vite.config.js",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "index.html",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\index.html",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\index.html",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "public/runtime-config.js",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\public\\runtime-config.js",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\public\\runtime-config.js",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "src/main.js",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\src\\main.js",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\src\\main.js",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "src/App.vue",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\src\\App.vue",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\src\\App.vue",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "src/styles.css",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\src\\styles.css",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\src\\styles.css",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": "src/lib/backends.js",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\src\\lib\\backends.js",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\src\\lib\\backends.js",
+      "action": "planned_copy"
+    },
+    {
+      "day": 26,
+      "area": "frontend",
+      "file": ".gitignore",
+      "source_path": "C:\\Users\\Babe\\Desktop\\myProject\\EchoMind所有代码+详细文档+简历\\EchoMindFrontend\\.gitignore",
+      "target_path": "C:\\Users\\Babe\\Desktop\\EchoMind_twin\\frontend\\.gitignore",
+      "action": "planned_copy"
+    }
+  ]
+}
